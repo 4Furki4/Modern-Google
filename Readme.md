@@ -1,3 +1,3 @@
 # Google Modern
 
-![Sayfanın ekran görüntüsü](assets\latestVersion.png)
+![Sayfanın ekran görüntüsü](assets/latestVersion.png)
